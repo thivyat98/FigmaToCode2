@@ -1,0 +1,75 @@
+/* General root styling */
+.root {
+    -fx-background-color: #ffffff;
+}
+
+/* Menu bar styling */
+.menu-bar {
+    -fx-background-color: #a64b00;
+    -fx-text-fill: white;
+}
+
+
+#sidebar {
+    -fx-background-color: #a64b00;
+    -fx-pref-width: 150px;
+    -fx-alignment: center;
+    -fx-padding: 20px;
+}
+
+.table-view {
+    -fx-background-color: white;
+    -fx-border-color: #ddd;
+}
+
+.table-column-header {
+    -fx-background-color: #d0b48f;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+    -fx-alignment: center-left;
+}
+
+.table-row-cell {
+    -fx-background-color: white;
+    -fx-border-color: #ddd;
+}
+
+.table-row-cell:hover {
+    -fx-background-color: #f5f5f5;
+}
+
+
+.vbox {
+    -fx-background-color: #00ff00;
+    -fx-padding: 20px;
+      -fx-pref-width: 300px;
+    }
+
+    .text-field {
+        -fx-background-color: white;
+        -fx-border-color: #ccc;
+        -fx-padding: 10px;
+        -fx-font-size: 14px;
+        -fx-margin-bottom: 10px;
+    }
+
+
+    .button {
+        -fx-background-color: #a64b00;
+        -fx-text-fill: white;
+        -fx-font-weight: bold;
+        -fx-padding: 10px;
+        -fx-cursor: hand;
+        -fx-pref-width: 200px;
+    }
+
+    .button:hover {
+        -fx-background-color: #c55f1b;
+    }
+    .grey-Hbox {
+        -fx-background-color: #808080;
+    }
+    .light-brown {
+        -fx-background-color: #D2B48C;
+    }
+
